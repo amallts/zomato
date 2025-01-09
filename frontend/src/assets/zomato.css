@@ -251,23 +251,23 @@
 }
 
 .cardonethird{
-    background-image: url("zomato.avif");
+    background-image: url("https://m.media-amazon.com/images/I/81BMeMOzr9L._AC_UF350,350_QL80_.jpg");
     background-size: cover;
 
 }
 .cardtwothird{
-    background-image: url("zomato1.avif");
+    background-image: url("https://static.greatbigcanvas.com/ideas/e1bca822-5587-49bc-bac6-abc91df942b1.jpg");
     background-size: cover;
 
 }
 .cardthreethird{
-    background-image: url("../../public/zomato2.avif");
+    background-image: url("https://cdn.shopify.com/s/files/1/3099/2610/files/Abstract_art_for_your_dining_room_original_painting_for_sale_uk_480x480.jpg?v=1618345573");
     background-size: cover;
 
 
 }
 .cardfourthird{
-    background-image: url("../../public/zomato3.avif");
+    background-image: url("https://m.media-amazon.com/images/I/81eKDXlnoDL._AC_UF894,1000_QL80_.jpg");
     background-size: cover;
 
 }
